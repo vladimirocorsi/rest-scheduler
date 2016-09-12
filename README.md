@@ -1,6 +1,6 @@
 # rest-scheduler
 
-A simple program scheduling Groovy scripts via a RESTful API. 
+A Java HTTP server allowing to schedule Groovy scripts via a RESTful API. 
 Technical stack is Java with Jersey JAX-RS library.
 
 Usage
